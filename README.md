@@ -67,3 +67,4 @@ preview/index.html               浏览器版预览（与 ArkTS 端逻辑镜像�
 
 - 代码：[GPL-3.0](LICENSE)（与原版一致）
 - 素材：来自《明日方舟：终末地》「融合！山团团！」原版资源，仅用于本重制项目
+- 代码参考https://github.com/palmcivet/orbipom-merge
