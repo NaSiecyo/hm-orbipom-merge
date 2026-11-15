@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.0",
+  "description": "Orbipom Merge remake for HarmonyOS 6 smart watches.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

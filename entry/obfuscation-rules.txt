@@ -1,0 +1,3 @@
+# Obfuscation rules for OrbipomWatch.
+# Property obfuscation is disabled for clarity; enable per release needs.
+-disable-obfuscation

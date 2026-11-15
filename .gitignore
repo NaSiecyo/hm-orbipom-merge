@@ -1,0 +1,29 @@
+# 构建产物与依赖（DevEco / hvigor）
+node_modules/
+**/node_modules/
+oh_modules/
+**/oh_modules/
+build/
+**/build/
+.hvigor/
+**/.hvigor/
+.cxx/
+**/.cxx/
+
+# 本地环境与 IDE
+local.properties
+**/local.properties
+.idea/
+**/.idea/**
+.clangd
+.clang-format
+.clang-tidy
+.test
+.preview
+.appanalyzer
+
+# 签名材料（不要入库）
+*.p12
+*.cer
+*.p7b
+*.csr

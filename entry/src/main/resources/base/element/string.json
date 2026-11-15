@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Orbipom Merge wearable game"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Merge blobs on your wrist"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "腕上团团"
+    }
+  ]
+}
